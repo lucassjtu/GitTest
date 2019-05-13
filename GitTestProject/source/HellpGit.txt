@@ -19,4 +19,5 @@ git branch -d  [devname] //删除分支
 
 master and feature branch to be same
 
-master again
+master and feature branch to be sameagain
+
