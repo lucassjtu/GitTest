@@ -10,9 +10,10 @@ git push origin master
 
 
 分支
-git checkout -b [devname]
-git branch 【devname】
-git checkout [devname]
+git checkout -b [devname] //创建并切换分支
+git branch [devname]   //创建分支
+git checkout [devname] //切换分支
+git branch //查看分支
+git merge [devname] //合并[devname]到当前分支
+git branch -d  [devname] //删除分支
 
-git merge [devname]
-git branch -d  [devname]
