@@ -18,3 +18,4 @@ git merge [devname] //合并[devname]到当前分支
 git branch -d  [devname] //删除分支
 
 feature branch
+feature again
