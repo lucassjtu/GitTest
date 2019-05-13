@@ -17,4 +17,4 @@ git branch //查看分支
 git merge [devname] //合并[devname]到当前分支
 git branch -d  [devname] //删除分支
 
-master
+master and feature branch to be same
