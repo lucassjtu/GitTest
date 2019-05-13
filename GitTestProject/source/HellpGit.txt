@@ -4,3 +4,12 @@ git commit -m ""
 git status
 git reflog
 git check out
+git remote add origin git@server-name:path/repo-name.git
+git push -u origin master
+git push origin master
+
+
+分支
+git checkout -b [devname]
+git branch 【devname】
+git checkout [devname]
