@@ -13,3 +13,6 @@ git push origin master
 git checkout -b [devname]
 git branch 【devname】
 git checkout [devname]
+
+git merge [devname]
+git branch -d  [devname]
